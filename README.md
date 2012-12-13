@@ -1,4 +1,4 @@
 Window-Interface
 ================
 
-Actionscript 3.0 window interface system
+Actionscript 3.0 window interface experiment
